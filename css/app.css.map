@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "app.css",
-	"sourceRoot": "/Users/dskinner/Simons Foundation Dropbox/Dominic Skinner/academic",
+	"sourceRoot": "/Users/dominic/Simons Foundation Dropbox/Dominic Skinner/academic",
 	"sources": [
 		"themes/yourfolio/assets/scss/app.scss",
 		"themes/yourfolio/assets/scss/_vars.scss"
